@@ -1,20 +1,22 @@
-CTF                                             │ Date                            │ Team                        │ Completed   │ Total Boxes
+CTF                                             │ Date                            │ Team                        │ Completed*  │ Total Boxes
 ────────────────────────────────────────────────┼─────────────────────────────────┼─────────────────────────────┼─────────────┼───────────────
-GlacierCTF                                      │ Fri, 25 Nov. 2022 - 24 hours    │ Anon CTF                    │ 4?| 6?      │ 20+?
+GlacierCTF 2022                                 │ Fri, 25 Nov. 2022 - 24 hours    │ Anon CTF                    │ 4 | 6?      │ 20+?
 HTB University CTF 2022 : Supernatural Hacks    │ Fri, 02 Dec. 2022 - 54 hours    │ Staffordshire University    │ 0 | 1       │ 22
-KITCTFCTF                                       │ Fri, 09 Dec. 2022 - 30 hours    │ Anon CTF                    │ 2 | 2       │ 28
-NiteCTF                                         │ Fri, 23 Dec. 2022 -             │ Anon CTF                    │ 2 | 2       │ 12
+KITCTFCTF 2022                                  │ Fri, 09 Dec. 2022 - 30 hours    │ Anon CTF                    │ 2 | 2       │ 28
+NiteCTF 2022                                    │ Fri, 23 Dec. 2022 - 48 hours    │ Anon CTF                    │ 1 | 2       │ 20
 
 
 
 
 
 * ? - Site is down and I am unable to get information from it.
-* The Team half of completed includes mine and the others!
+* Completed* refers to (solves i participated in) | (total team solves)
 
-
-Personal Solves:
+Solves I worked on:
 
 KITCTFCTF:
 Insanity Check (misc)
 One Trick Pony (crypto)
+
+NiteCTF:
+Boys (misc) - involved stenography, audio spectograms and unshuffling images.
